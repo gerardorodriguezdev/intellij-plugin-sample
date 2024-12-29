@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>TypescriptToKotlinPlugin</id>
+
+    <name>TypescriptToKotlin</name>
+
+    <vendor/>
+
+    <description><![CDATA[
+    TypescriptToKotlin plugin to easily select projects to convert from typescript to kotlin
+  ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow
+                factoryClass="TTKToolWindowFactory"
+                id="TTKToolWindow"
+                anchor="right"
+                icon="/icons/pluginIcon.svg"/>
+
+    </extensions>
+</idea-plugin>

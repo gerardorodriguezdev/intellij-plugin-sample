@@ -1,0 +1,10 @@
+[versions]
+kotlin = "1.9.0"
+jvm = "21"
+mockk = "1.13.5"
+
+[libraries]
+mockk = { module = "io.mockk:mockk", version.ref = "mockk"}
+
+[plugins]
+kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
