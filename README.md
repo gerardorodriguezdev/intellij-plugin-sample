@@ -1,6 +1,6 @@
-# Typescript to Kotlin 
+# Typescript to Kotlin
 
-Command line and Intellij IDEA plugin to convert a Typescript file or project to Kotlin/Js
+Command line and IntelliJ plugin sample project to convert a Typescript file or project to Kotlin/Js
 
 ## How it works
 
