@@ -1,4 +1,4 @@
-# Typescript to Kotlin
+# Typescript To Kotlin (TTK)
 
 Command line and IntelliJ plugin sample project to convert a Typescript file or project to Kotlin/Js
 
